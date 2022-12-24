@@ -4,9 +4,6 @@ Introduction
 In this assignment, you’ll implement a custom version of malloc, free, and realloc. You should
 implement these in mymalloc.c and mymalloc.h. These files should not contain a main function,
 so you may want a separate .c file for testing.
-You can work in small groups (1 – 3 people). Please include a README file with your code
-that contains all partners’ names and netIDs. Only one person from each group should submit the
-assignment.
 Library functionality
 You should implement these functions, described below:
 void myinit(int allocAlg);
